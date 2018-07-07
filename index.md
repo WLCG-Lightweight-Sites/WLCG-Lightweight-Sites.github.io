@@ -7,9 +7,9 @@ The WLCG unites resources from over 169 sites spread across the world and the nu
 
 The WLCG is a diverse environment. There are several flavors of compute elements, batch systems middleware packages etc. available. The sites and site admins too have their preferences towards infrastructure technologies for provisioning, configuration and management of nodes. 
 
-The mission of the SIMPLE Grid Project is to encompass this diversity and deliver a consistent experience to site admins for setting up and configuring the various grid services supported by the SIMPLE Grid Framework (with minimal information of low level details of grid services and the background technologies used by the framework to set up their site). 
-
-The WLCG is one of the largest computing infrastructures in the world, spread over 170 research institutes and data centers across the globe. Through the SIMPLE Grid Project, we wish to provide a platform for enthusiasts and learners to contributing towards the technologies that make
+The mission of the SIMPLE Grid Project is to 
+-  Encompass this diversity and deliver a consistent experience to site admins for setting up and configuring the various grid services supported by the SIMPLE Grid Framework.
+-  Abstract low level details related to configuration and operation of Grid Sites from the perspective of a Site Admin. 
 
 ## The Open Source Community 
 
