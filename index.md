@@ -1,5 +1,5 @@
 ## SIMPLE Grid Project
-The SIMPLE Grid Project is a framework that reduces the task of setting up a [Worlwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch/) to a few hundred lines of YAML!
+The SIMPLE Grid Project is a framework that reduces the task of setting up a [Worlwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch/) to a few hundred lines of YAML! It is an acronym for **S**olution for **I**nstallation, **M**anagement and **P**rovisioning of **L**ightweight **E**lements
 
 The WLCG unites resources from over 169 sites spread across the world and the number is expected to grow in the coming years. However, setting up and configuring new sites to support WLCG workloads is still no straightforward task and often requires significant assistance from WLCG experts. A survey presented in CHEP 2016 revealed a strong wish among site admins for reduction of overheads through the use of prefab Docker containers or OpenStack VM images, along with the adoption of popular tools like Puppet for configuration. In 2017, the Lightweight Sites project a.k.a the SIMPLE Grid project was initiated to construct shared community repositories providing such building blocks. 
 
@@ -19,24 +19,24 @@ The SIMPLE Grid Project is completely open source and is fueled by the spirit of
 
 As mentioned earlier, the WLCG is diverse. The SIMPLE Grid Framework has a modular architecture enabling it to easily scale in terms of supported grid services and supported infrastructure technologies.
 
-The team at CERN is currently focused to deliver one recipe for setting up a site using a subset of these grid services (CreamCE, Torque Batch System, Worker Nodes based on Torque Client) and infrastructure tools (Docker, Docker Swarm, Puppet YAIM). Support for more grid services(ARC Compute Elements, Slurm, HTCondor) and infrastructure tools (Ansible, SaltStack, Kubernetes, Apache Mesos etc.) can be added by experienced developers/ experts in parallel, allowing the framework to be more impactful in a lesser amount of time. Learn More 
+The team at CERN is currently focused to deliver one recipe for setting up a site using a subset of these grid services (CreamCE, Torque Batch System, Worker Nodes based on Torque Client) and infrastructure tools (Docker, Docker Swarm, Puppet YAIM). Support for more grid services(ARC Compute Elements, Slurm, HTCondor) and infrastructure tools (Ansible, SaltStack, Kubernetes, Apache Mesos etc.) can be added by experienced developers/ experts in parallel, allowing the framework to be more impactful in a lesser amount of time. [Learn More!](https://twiki.cern.ch/twiki/bin/view/LCG/SimpleGridDevelopers) 
 
 ### WLCG Site Admins
 
-Site admins are an integral part of the success of the project. As we are nearing the first release of the framework, we'd like to invite site admins to help and experience some of the benefits of managing their grid site, the SIMPLE way! [MORE]
+Site admins are an integral part of the success of the project. As we are nearing the first release of the framework, we'd like to invite site admins to help test the framework and also experience some of the benefits of managing their grid site, the SIMPLE way! [Learn More](https://twiki.cern.ch/twiki/bin/view/LCG/SimpleGridUsers)
 
 ### Students 
 
 The WLCG is one of the largest distributed computing infrastructures. It is spread over 170 research institutes and computing centers around the globe. Given the wide array of technologies involved, the project not only offers a great learning environment but also provides a platform to make impact to a truly massive and widespread computing infrastructures of today. 
 
-We are participating in the Google Summer of Code Program to help students sharpen their ITSM skillset and provide open source learning experience through the project, while expanding the set of technologies supported by the project today! 
+We are participating in the Google Summer of Code Program to help students sharpen their ITSM skillset and provide open source learning experience through the project. Their efforts in turn help expand the set of technologies supported by the project. 
 
-If you are a student looking for an interesting milestone in your open source journey, do get in touch!
+If you are a student looking for an interesting milestone in your open source journey, do get in touch using the channels specified in the next section!
 
 ### ITSM Leads and FOSS Enthusiasts
 
 No FOSS project is complete without FOSS Enthusiasts and a solid ITSM team to drive the community!
-To keep a community flourishing, the crucial role of various community managers, administrators and ITSM operators cannot be left out. If you see yourself as a driving force to the community, we welcome you to lead those efforts. LEARN MORE
+To keep a community flourishing, the crucial role of various community managers, administrators and ITSM operators cannot be left out. If you see yourself as a driving force to the community, we welcome you to lead those efforts. Get in touch via the channels mentioned in the next section!
 
 ## Communication Channels
 
