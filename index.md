@@ -43,7 +43,7 @@ To keep a community flourishing, the crucial role of various community managers,
 - [Instant Messaging (Mattermost)](http://cern.ch/go/8HWP)
 - [Web Forum, Q&A platform](http://cern.ch/go/Hz7S)
 - [Technical Discussion List](http://cern.ch/go/l9wZ)
-
+- [Documents and Wiki](https://twiki.cern.ch/twiki/bin/view/LCG/SIMPLEGridProject)
 
 ## News and Events
 ### CHEP 2018
