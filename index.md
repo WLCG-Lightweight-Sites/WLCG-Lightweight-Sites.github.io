@@ -47,7 +47,7 @@ To keep a community flourishing, the crucial role of various community managers,
 
 ## News and Events
 ### CHEP 2018
-The project is being presented at CHEP 2018, in Sophia, Bulgaria. Here is the link to the [event and slides](https://indico.cern.ch/event/587955/contributions/2937094/)
+The project is being presented at CHEP 2018, in Sofia, Bulgaria. Here is the link to the [event and slides](https://indico.cern.ch/event/587955/contributions/2937094/)
 ### Google Summer of Code 2018
 As part of [Google Summer of Code 2018](https://summerofcode.withgoogle.com/), Tarang Mahapatra from the University of British Columbia, Vancouver is adding support for [Ansible to configure grid services](https://storage.googleapis.com/summerofcode-prod.appspot.com/gsoc/core_project/doc/6281861081333760_1522165911_Tarang_GSoC_WLCG.pdf?Expires=1531083137&GoogleAccessId=summerofcode-prod%40appspot.gserviceaccount.com&Signature=r%2F6d8Ci3DFhrNVau%2FMDypL3p4%2Bbr1Ip3baLREIa%2FIHO6fQ%2FrVl5OVLYMBVgb%2FEtD4ez%2FjcUEfnZaYgVyXLszFLy2RYbug0z52z%2FsGCLUxqLxalSYrfsKI5NlOgYjcsfmoO4A17iaCB7WtEx1ZTdNvUPDbV98Ac3tPd0hjla3tWo6Gh5UVUJUpQZvidPTwfUwGPWggLMs%2F1s9%2FZe47xtXVAj8kuBntURVq%2FXxVxpAncskG4R%2BhC3GWjiUvyrQr6Www6Bss0UjP2rDYQPaRzZOUYwT6dF1LTu3%2BKMd9g3w9Ju2Ov1hbw0FnvGyrS8AeS25OVRveS1VupqGEbrU%2BagDzQ%3D%3D)
 
