@@ -46,6 +46,8 @@ To keep a community flourishing, the crucial role of various community managers,
 - [Documents and Wiki](https://twiki.cern.ch/twiki/bin/view/LCG/SIMPLEGridProject)
 
 ## News and Events
+### Google Summer of Code 2019
+As part of GSoC 2019, Sneha Sinha, a final year student from IIIT-Delhi, India has improved the core python components of the framework. Her code is part of the v1.0.0 release of the framework. Check out is the final report of her contributions [here](gsoc_2019_python_components.md).
 ### CHEP 2018
 The project is being presented at CHEP 2018, in Sofia, Bulgaria. Here is the link to the [event and slides](https://indico.cern.ch/event/587955/contributions/2937094/)
 ### Google Summer of Code 2018
