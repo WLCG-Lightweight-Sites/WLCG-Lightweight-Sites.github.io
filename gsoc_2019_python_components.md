@@ -7,7 +7,7 @@
 ## Links to my contributions and Highlights
 Following are the links to my contributions in three parts:
 
-1. In the WLCG's repositiories, my work is documented in merged PRs in the following repositories. This code consists of the work done over all the past phases:
+[1.] In the WLCG's repositiories, my work is documented in merged PRs in the following repositories. This code consists of the work done over all the past phases:
   * [Compiler](https://github.com/WLCG-Lightweight-Sites/simple_grid_yaml_compiler) <br />
 I worked on the processing of input site level schema and wrote a function to validate the input config file based on the schema downloaded by the compiler recursively. I also added a new phase in the compiler to process schemas from all components.
   
@@ -20,9 +20,9 @@ I worked on the configurations of base files, and creating defaults file and def
   * [Infra Validation Engine](https://github.com/WLCG-Lightweight-Sites/simple_grid_infra_validation_engine) <br />
 I worked on testinfra and wrote tests for verifying correctness of setup of various component and nodes involved in deployment infrastructure.
 
-2. I've completed coding tasks and issues in different sprints, these indicate the different phases of my work: [Sprint 1](https://github.com/orgs/WLCG-Lightweight-Sites/projects/2#column-4705944), [Sprint 2](https://github.com/orgs/WLCG-Lightweight-Sites/projects/3#column-5888982) and [Sprint 3](https://github.com/orgs/WLCG-Lightweight-Sites/projects/4#column-6135088) 
+[2.] I've completed coding tasks and issues in different sprints, these indicate the different phases of my work: [Sprint 1](https://github.com/orgs/WLCG-Lightweight-Sites/projects/2#column-4705944), [Sprint 2](https://github.com/orgs/WLCG-Lightweight-Sites/projects/3#column-5888982) and [Sprint 3](https://github.com/orgs/WLCG-Lightweight-Sites/projects/4#column-6135088) 
 
-3. My Pull Requests are further specified below along with the workflow.
+[3.] My Pull Requests are further specified below along with the workflow.
 
 ### Highlights of my work 
 My work during the contribution period can be divided into the following 4 phases. The first two phases consisted of working on the Simple Grid Compiler, in the third phase I contributed to the Configuration Validation Engine and the final phase was based on Simple Grid Infra Validation Engine. <br>
