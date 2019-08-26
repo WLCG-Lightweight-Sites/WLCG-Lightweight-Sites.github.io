@@ -8,6 +8,7 @@
 Following are the links to my contributions in three parts:
 
 [1.] In the WLCG's repositiories, my work is documented in merged PRs in the following repositories. This code consists of the work done over all the past phases:
+
   * [Compiler](https://github.com/WLCG-Lightweight-Sites/simple_grid_yaml_compiler) <br />
 I worked on the processing of input site level schema and wrote a function to validate the input config file based on the schema downloaded by the compiler recursively. I also added a new phase in the compiler to process schemas from all components.
   
