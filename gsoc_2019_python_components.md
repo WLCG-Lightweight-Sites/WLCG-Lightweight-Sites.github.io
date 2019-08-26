@@ -5,6 +5,8 @@
 ## Project - Python Components for the SIMPLE Grid Framework
 
 ## Links to my contributions and Highlights
+Following are the links to my contributions in three parts:
+
 1. In the WLCG's repositiories, my work is documented in merged PRs in the following repositories. This code consists of the work done over all the past phases:
 
   * [Compiler](https://github.com/WLCG-Lightweight-Sites/simple_grid_yaml_compiler) <br />
