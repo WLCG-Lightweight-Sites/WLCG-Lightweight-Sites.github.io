@@ -6,16 +6,17 @@
 
 ## Links to my contributions and Highlights
 1. In the WLCG's repositiories, my work is documented in merged PRs in the following repositories. This code consists of the work done over all the past phases:
-- [Compiler](https://github.com/WLCG-Lightweight-Sites/simple_grid_yaml_compiler) <br />
+
+  * [Compiler](https://github.com/WLCG-Lightweight-Sites/simple_grid_yaml_compiler) <br />
 I worked on the processing of input site level schema and wrote a function to validate the input config file based on the schema downloaded by the compiler recursively. I also added a new phase in the compiler to process schemas from all components.
   
-- [Validation Engine](https://github.com/WLCG-Lightweight-Sites/wlcg_lightweight_site_config_validation_engine) <br />
+  * [Validation Engine](https://github.com/WLCG-Lightweight-Sites/wlcg_lightweight_site_config_validation_engine) <br />
 I added validators to check for custom data types and extra constraints according to a specified truth table.
 
-- [Simple Grid Site Repo](https://github.com/WLCG-Lightweight-Sites/simple_grid_site_repo) <br />
+  * [Simple Grid Site Repo](https://github.com/WLCG-Lightweight-Sites/simple_grid_site_repo) <br />
 I worked on the configurations of base files, and creating defaults file and defined custom data types. I continuously improvised on the simple base schema in all phases for better processing by the compiler.
 
-- [Infra Validation Engine](https://github.com/WLCG-Lightweight-Sites/simple_grid_infra_validation_engine) <br />
+  * [Infra Validation Engine](https://github.com/WLCG-Lightweight-Sites/simple_grid_infra_validation_engine) <br />
 I worked on testinfra and wrote tests for verifying correctness of setup of various component and nodes involved in deployment infrastructure.
 
 2. I've completed coding tasks and issues in different sprints, these indicate the different phases of my work: [Sprint 1](https://github.com/orgs/WLCG-Lightweight-Sites/projects/2#column-4705944), [Sprint 2](https://github.com/orgs/WLCG-Lightweight-Sites/projects/3#column-5888982) and [Sprint 3](https://github.com/orgs/WLCG-Lightweight-Sites/projects/4#column-6135088) 
@@ -67,5 +68,5 @@ My mentors Mayank and Maarten, have been very responsive and helpful to my quest
 
 Reach me at: 
 * Email: ssin9042@gmail.com
-* GitHub: https://github.com/snehasi
-* CERN Mattermost uname: ssinha
+* GitHub: [snehasi](https://github.com/snehasi)
+* CERN Mattermost uname: snsinha
