@@ -1,4 +1,6 @@
 ## SIMPLE Grid Project
+**Setup a HTCondor Pool using the SIMPLE Grid Framework: [User Guide](htcondor_pool_setup.md)  **
+
 The SIMPLE Grid Project is a framework that reduces the task of setting up a [Worlwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch/) to a few hundred lines of YAML! It is an acronym for **S**olution for **I**nstallation, **M**anagement and **P**rovisioning of **L**ightweight **E**lements
 
 The WLCG unites resources from over 169 sites spread across the world and the number is expected to grow in the coming years. However, setting up and configuring new sites to support WLCG workloads is still no straightforward task and often requires significant assistance from WLCG experts. A survey presented in CHEP 2016 revealed a strong wish among site admins for reduction of overheads through the use of prefab Docker containers or OpenStack VM images, along with the adoption of popular tools like Puppet for configuration. In 2017, the Lightweight Sites project a.k.a the SIMPLE Grid project was initiated to construct shared community repositories providing such building blocks. 
