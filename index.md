@@ -1,5 +1,5 @@
 ## SIMPLE Grid Project
-**Setup a HTCondor Pool using the SIMPLE Grid Framework: [User Guide](htcondor_pool_setup.md)  **
+**Setup a HTCondor Pool using the SIMPLE Grid Framework: [User Guide](htcondor_pool_setup.md)**
 
 The SIMPLE Grid Project is a framework that reduces the task of setting up a [Worlwide LHC Computing Grid (WLCG)](http://wlcg.web.cern.ch/) to a few hundred lines of YAML! It is an acronym for **S**olution for **I**nstallation, **M**anagement and **P**rovisioning of **L**ightweight **E**lements
 
